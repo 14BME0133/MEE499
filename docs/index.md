@@ -12,3 +12,5 @@ To design and fabricate a prototype for an Intelligent, Real-time feed-forward R
 
  - [ ] Modular, Automotive Grade Linux Fork.
  - [ ] With active, no-reboot server hyperpatching.
+ - [ ] Active remote-sensing
+ - [ ] Traffic & terrain notifications.
