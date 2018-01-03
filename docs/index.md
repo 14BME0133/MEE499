@@ -8,7 +8,7 @@
 
 ### Synopsis:
 
-To design and fabricate a prototype for an Intelligent, Real-time feed-forward RNN base smart Informaton-retrieval-cum-active-acting system for daily-use budget vehicular dashboard.
+To design and fabricate a prototype for an Intelligent, Real-time feed-forward RNN based smart Informaton-retrieval-cum-active-acting system for "the" daily-use budget vehicular dashboard.
 
 
 ### Timeline:
@@ -28,7 +28,7 @@ To design and fabricate a prototype for an Intelligent, Real-time feed-forward R
  - [ ] Abstract Prototype - First Draft
  `29-12-2017/`
 
- - [ ] Project Greenlight :: Literature Survey
+ - [x] Project Greenlight :: Literature Survey
  `02-12-2018`
 
  - [ ] Remote Internship request to iot.bzh
