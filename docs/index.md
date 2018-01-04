@@ -34,5 +34,19 @@ To design and fabricate a prototype for an Intelligent, Real-time feed-forward R
  - [ ] Remote Internship request to iot.bzh
  `03-12-2018`
  
+ ---
+
+### Review [ Formal ] Schedule:
+
+ - [x] Zeroeth Review:
+ `21-12-2017`
  
+ - [ ] First Review:
+ `21-01-2018`
+ 
+ - [ ] Mid Review:
+ `21-03-2018`
+ 
+ - [ ] Final Review:
+ `21-05-2018`
  
