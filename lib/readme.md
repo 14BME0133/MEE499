@@ -2,3 +2,4 @@
 
 Read about [Security](Linux-Automotive-Security-v10.pdf)
 
+![](icon.svg)
