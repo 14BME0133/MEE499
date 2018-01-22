@@ -36,7 +36,7 @@ To design and fabricate a prototype for an Intelligent, Real-time feed-forward R
  
  ---
 
-### Review [ Formal ] Schedule:
+### Reviews' [ Formal ] Schedule:
 
  - [x] Zeroeth Review:
  `21-12-2017`
